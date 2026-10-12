@@ -78,8 +78,6 @@ The Power BI report contains three dashboard pages.
 
 Your existing Dashboard 1 details go here.
 
-![Executive Sales Overview](Dashboard_1_Executive_Overview.png)
-
 ### Dashboard 1 — Executive Sales Overview
 
 Provides a high-level view of business performance through:
@@ -92,11 +90,11 @@ Provides a high-level view of business performance through:
 - Sales by category, payment method, state, and gender
 - Top products by sales
 
+![Executive Sales Overview](Dashboard_1_Executive_Overview.png)
+
 ## Dashboard 2: Product & Discount Analysis
 
 Your existing Dashboard 2 details go here.
-
-![Product & Discount Analysis](Dashboard_2_Product_Discount.png)
 
 ### Dashboard 2 — Product & Discount Analysis
 
@@ -107,11 +105,11 @@ Explores product performance and discount patterns through:
 - Quantity sold by category
 - Delivered Sales KPI
 
+![Product & Discount Analysis](Dashboard_2_Product_Discount.png)
+
 ## Dashboard 3: Customer & Regional Analysis
 
 Your existing Dashboard 3 details go here.
-
-![Customer & Regional Analysis](Dashboard_3_Customer_Regional.png)
 
 ### Dashboard 3 — Customer & Regional Analysis
 
@@ -120,6 +118,8 @@ Examines customer and operational patterns through:
 - Order-status distribution
 - Customer distribution by gender
 - Delivered Orders KPI
+
+![Customer & Regional Analysis](Dashboard_3_Customer_Regional.png)
 
 ## Key Findings
 
