@@ -74,6 +74,12 @@ The analysis uses SQL techniques such as joins, aggregations, conditional logic,
 
 The Power BI report contains three dashboard pages.
 
+## Dashboard 1: Executive Sales Overview
+
+Your existing Dashboard 1 details go here.
+
+![Executive Sales Overview](Dashboard_1_Executive_Overview.png)
+
 ### Dashboard 1 — Executive Sales Overview
 
 Provides a high-level view of business performance through:
@@ -86,6 +92,12 @@ Provides a high-level view of business performance through:
 - Sales by category, payment method, state, and gender
 - Top products by sales
 
+## Dashboard 2: Product & Discount Analysis
+
+Your existing Dashboard 2 details go here.
+
+![Product & Discount Analysis](Dashboard_2_Product_Discount.png)
+
 ### Dashboard 2 — Product & Discount Analysis
 
 Explores product performance and discount patterns through:
@@ -94,6 +106,12 @@ Explores product performance and discount patterns through:
 - Average discount by category
 - Quantity sold by category
 - Delivered Sales KPI
+
+## Dashboard 3: Customer & Regional Analysis
+
+Your existing Dashboard 3 details go here.
+
+![Customer & Regional Analysis](Dashboard_3_Customer_Regional.png)
 
 ### Dashboard 3 — Customer & Regional Analysis
 
